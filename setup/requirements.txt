@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+psycopg2-binary
+requests
+pandas==2.2.1
+asyncpg
+SQLAlchemy[asyncio]
+numexpr==2.8.7
+python-dotenv
+httpx
